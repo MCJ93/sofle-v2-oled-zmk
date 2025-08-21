@@ -71,10 +71,10 @@ layers:
   - {t: BT, h: '3'}
   - {t: BT, h: '4'}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - KP NUMLOCK
+  - KP SLASH
+  - KP ASTERISK
+  - KP SUBTRACT
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - INS
@@ -82,24 +82,24 @@ layers:
   - CMENU
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - PG UP
-  - {t: ▽, type: trans}
-  - UP
-  - {t: ▽, type: trans}
-  - '0'
-  - {t: ▽, type: trans}
+  - ''
+  - KP 7
+  - KP 8
+  - KP 9
+  - KP PLUS
+  - ''
   - {t: ▽, type: trans}
   - LALT
   - LCTRL
   - LSHFT
   - {t: ▽, type: trans}
-  - CLCK
-  - PG DN
-  - LEFT
-  - DOWN
-  - RIGHT
-  - DEL
-  - BSPC
+  - CAPSLOCK
+  - ''
+  - KP 4
+  - KP 5
+  - KP 6
+  - KP PLUS
+  - ''
   - {t: ▽, type: trans}
   - UNDO
   - CUT
@@ -109,10 +109,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - KP 1
+  - KP 2
+  - KP 3
+  - RET
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -121,9 +121,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - KP 0
+  - KP 0
+  - KP COMMA
   adjust:
   - BT CLR
   - {t: BT, h: '0'}
