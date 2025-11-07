@@ -1,7 +1,7 @@
 layout: {zmk_keyboard: sofle}
 layers:
   default: [ESC, '1', '2', '3', '4', '5', '6', '7', '8', '9', '0', BSPC, TAB, Q, W, E, R, T, Y, U, I, O, P, \, LEFT SHIFT, A, S, D, F, G, H, J, K, L, ;, '''', LCTRL,
-    Z, X, C, V, B, MUTE, CAPSLOCK, N, M, ',', ., '', /, '', LEFT GUI, LEFT ALT, lower, SPACE, RETURN, raise, RIGHT ALT, '', '']
+    Z, X, C, V, B, MUTE, CAPSLOCK, N, M, ',', ., '', /, '', LEFT GUI, LEFT ALT, raise, SPACE, RETURN, lower, RIGHT ALT, '', '']
   lower:
   - '`'
   - F1
@@ -56,10 +56,10 @@ layers:
   - '&studio_unlock'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -117,10 +117,10 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - KP 0
   - KP 0
   - KP COMMA
